@@ -1,0 +1,15 @@
+/root/code-server-coding/bin/Debug/net6.0/code-server-coding
+/root/code-server-coding/bin/Debug/net6.0/code-server-coding.deps.json
+/root/code-server-coding/bin/Debug/net6.0/code-server-coding.runtimeconfig.json
+/root/code-server-coding/bin/Debug/net6.0/code-server-coding.dll
+/root/code-server-coding/bin/Debug/net6.0/code-server-coding.pdb
+/root/code-server-coding/obj/Debug/net6.0/code-server-coding.csproj.AssemblyReference.cache
+/root/code-server-coding/obj/Debug/net6.0/code-server-coding.GeneratedMSBuildEditorConfig.editorconfig
+/root/code-server-coding/obj/Debug/net6.0/code-server-coding.AssemblyInfoInputs.cache
+/root/code-server-coding/obj/Debug/net6.0/code-server-coding.AssemblyInfo.cs
+/root/code-server-coding/obj/Debug/net6.0/code-server-coding.csproj.CoreCompileInputs.cache
+/root/code-server-coding/obj/Debug/net6.0/code-server-coding.dll
+/root/code-server-coding/obj/Debug/net6.0/refint/code-server-coding.dll
+/root/code-server-coding/obj/Debug/net6.0/code-server-coding.pdb
+/root/code-server-coding/obj/Debug/net6.0/code-server-coding.genruntimeconfig.cache
+/root/code-server-coding/obj/Debug/net6.0/ref/code-server-coding.dll
