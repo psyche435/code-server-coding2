@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestFNodeList",
+            "request": "launch",
+            "mainClass": "TestFNodeList",
+            "projectName": "code-server-coding_e581c692"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "Application",
+            "projectName": "code-server-coding_e581c692"
+        },
+        {
+            "type": "java",
+            "name": "app8_11",
+            "request": "launch",
+            "mainClass": "app8_11",
+            "projectName": "code-server-coding_e581c692"
+        },
+        {
+            "type": "java",
             "name": "app8_1",
             "request": "launch",
             "mainClass": "app8_1",
